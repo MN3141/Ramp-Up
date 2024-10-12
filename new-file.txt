@@ -1,0 +1,1 @@
+Acesta este un nou fișier text creat pe branch-ul hello-branch.
